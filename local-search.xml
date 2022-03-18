@@ -5,8 +5,8 @@
   
   <entry>
     <title>「诗」你的名字</title>
-    <link href="/jimhello629.github.io/2022/03/16/%E3%80%8C%E8%AF%97%E3%80%8D%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97/"/>
-    <url>/jimhello629.github.io/2022/03/16/%E3%80%8C%E8%AF%97%E3%80%8D%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97/</url>
+    <link href="/2022/03/16/%E3%80%8C%E8%AF%97%E3%80%8D%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97/"/>
+    <url>/2022/03/16/%E3%80%8C%E8%AF%97%E3%80%8D%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97/</url>
     
     <content type="html"><![CDATA[<h1 id="「诗」你的名字"><a href="#「诗」你的名字" class="headerlink" title="「诗」你的名字"></a>「诗」你的名字</h1><p>你的名字对我来说有什么意义？</p><p>它关怀</p><p>像鲜花四月飘香</p><p>引得蜂儿嗡嗡</p><p>留恋蜜的甜</p><p>它给予</p><p>如虹弧淌过山谷</p><p>留下绚丽的彩</p><p>又如用无人能懂的语言</p><p>在黑夜里留下星星点点</p><p>它抚慰 </p><p>若菲菲雨影掠过枝头</p><p>细语春天的脚步</p><p>它有什么意义</p><p>在我孤独、悲伤的日子</p><p>悄悄念一念你的名字</p><p>并且说 有人在思念我</p><p>世界就明亮起来了</p>]]></content>
     
@@ -24,8 +24,8 @@
   
   <entry>
     <title>我是吉姆大师傅，这是第一篇博客</title>
-    <link href="/jimhello629.github.io/2022/03/16/%E6%88%91%E6%98%AF%E5%90%89%E5%A7%86%E5%A4%A7%E5%B8%88%E5%82%85%EF%BC%8C%E8%BF%99%E6%98%AF%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-    <url>/jimhello629.github.io/2022/03/16/%E6%88%91%E6%98%AF%E5%90%89%E5%A7%86%E5%A4%A7%E5%B8%88%E5%82%85%EF%BC%8C%E8%BF%99%E6%98%AF%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+    <link href="/2022/03/16/%E6%88%91%E6%98%AF%E5%90%89%E5%A7%86%E5%A4%A7%E5%B8%88%E5%82%85%EF%BC%8C%E8%BF%99%E6%98%AF%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <url>/2022/03/16/%E6%88%91%E6%98%AF%E5%90%89%E5%A7%86%E5%A4%A7%E5%B8%88%E5%82%85%EF%BC%8C%E8%BF%99%E6%98%AF%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
     
     <content type="html"><![CDATA[<p>大家好！</p>]]></content>
     
@@ -37,8 +37,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="/jimhello629.github.io/2022/03/16/hello-world/"/>
-    <url>/jimhello629.github.io/2022/03/16/hello-world/</url>
+    <link href="/2022/03/16/hello-world/"/>
+    <url>/2022/03/16/hello-world/</url>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><div class="code-wrapper"><pre><span class="line">1</span><br></pre></div></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
@@ -50,8 +50,8 @@
   
   <entry>
     <title>乞讨者</title>
-    <link href="/jimhello629.github.io/2019/07/10/%E4%B9%9E%E8%AE%A8%E8%80%85/"/>
-    <url>/jimhello629.github.io/2019/07/10/%E4%B9%9E%E8%AE%A8%E8%80%85/</url>
+    <link href="/2019/07/10/%E4%B9%9E%E8%AE%A8%E8%80%85/"/>
+    <url>/2019/07/10/%E4%B9%9E%E8%AE%A8%E8%80%85/</url>
     
     <content type="html"><![CDATA[<p>昨晚坐地铁买票时有个六七十岁、牙不剩几颗的老奶奶在乞讨，问我要零钱。由于没带零钱，找同学借了零钱后，给了那位老奶奶。老奶奶连连道谢，伸出手来似乎想和我握手，可我已转身离去，回头望了一眼点了点头，就继续和同学走了。</p><p>晚上刚好听了一首比较低沉音乐，让我不时地想起她，她是否已经几天没吃饭了？抛开那些无意义的不好的猜想，每每遇到这些社会的弱者，清洁工、乞讨者、在街边卖菜的老人，总感心酸可怜。我不住地想象他们年轻的模样、他们经历的种种，思考我能为他们做什么。</p><p>高中上学放学，看到雨天披着个塑料袋在街边卖菜的老人，我总想要不买点她的菜即使家里的菜都吃不完。社会中人与人之间的家庭背景、资源环境的鸿沟客观存在，后天努力缺乏的他们亦可能加剧这种差异，可真的没有办法了吗。一次在饭桌上我问我的父母，如何实现阶级的跨越，途径有哪些？他们也只是“好好学习，不断努力”这些很模糊的云云。</p><p>我想到我的小学老师，他跟我讲遇到乞讨者，可能的话你应该向他握个手以给他尊严，给他买一份吃的帮他果腹，而不是只给他钱。或许，昨晚我要是去便利店买个饭团给她，心里会不会好受点。乔布斯曾说过：“我没办法带着所有人过桥。”虽然语境不同，但是这句话很好的说出了我的感受，真的，我没办法带着所有人过桥，每次都是如此安慰自己。或许宽慰的说，正如《霸王别姬》里关师傅的话说，就是“每个人都有每个人的命”。</p>]]></content>
     
